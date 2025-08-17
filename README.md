@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**rafaelfelixz/rafaelfelixz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Olá. Me chamo Rafael Felix!
+<div>
+  <p>Programo desde novembro de 2024. Sou bem novo na área e tenho familiaridade com Python e C... mas apeas considero Python.
+  <br>
+    Como iniciante, não terei coisas extraordinárias para mostrar, mas o que eu consigo e posso fazer. 
+  </p>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
