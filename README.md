@@ -2,7 +2,7 @@
 <div>
   <p>Programo desde novembro de 2024. Sou bem novo na área e tenho familiaridade com Python e C.
   <br>
-    Tenho interesse/sou estudante da línguagem de programação C++. 
+    Tenho interesse/sou estudante da línguagem de programação C++. Sou usuário de Linux há um ano e as distros que mais uso são Debain e Arch Linux.
   </p>
 </div>
 <div style="display: inline_block"><br>
