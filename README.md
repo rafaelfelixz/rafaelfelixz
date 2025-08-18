@@ -1,6 +1,6 @@
 ## Olá. Me chamo Rafael Felix!
 <div>
-  <p>Programo desde novembro de 2024. Sou bem novo na área e tenho familiaridade com Python e C... mas apeas considero Python.
+  <p>Programo desde novembro de 2024. Sou bem novo na área e tenho familiaridade com Python e C.
   <br>
     Tenho interesse/sou estudante da línguagem de programação C++. 
   </p>
