@@ -17,3 +17,4 @@
 ![Static Badge](https://img.shields.io/badge/-vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=232323&color=007ACC)
 ![Static Badge](https://img.shields.io/badge/-python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=3670A0&color=4782bb)
 ![Static Badge](https://img.shields.io/badge/-mongodb-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=232323&color=4EA94B)
+![Static Badge](https://img.shields.io/badge/-c%2B%2B-00599c?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=232323&color=00599c)
